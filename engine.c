@@ -64,7 +64,7 @@ int compareEnv(char *s1, char *s2)
 	return (*s1 - *s2);
 }
 /**
- * identify_string - identyfy keyboard input.
+ * identify_string - identify keyboard input.
  * @parameter: call prompt from another function (prompt)
  * Return: str
  **/
