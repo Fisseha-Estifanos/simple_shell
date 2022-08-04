@@ -64,7 +64,7 @@ int _strlen(char *str)
 }
 
 /**
- * str_concat - concatane strings.
+ * str_concat - concatenate strings.
  * @s1: string.
  * @s2: second string.
  * Return: strings.
