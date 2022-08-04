@@ -12,3 +12,7 @@ A simple shell project hosted by the ALX peer learning group
 
 - GitHub: [Nardos Dubale](GitHub link goes here)
 - LinkedIn: [Nardos Dubale](LinkedIn link goes here)
+
+## Show us your support
+
+Give us a ⭐ if you like this project!
