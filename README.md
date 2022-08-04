@@ -5,7 +5,7 @@ A simple shell project hosted by the ALX peer learning group
 
 👤 **Fisseha Estifanos**
 
-- Git hub: [Fisseha Estifanos] [https://github.com/fisseha-estifanos] 
+- Git hub: [Fisseha Estifanos] (https://github.com/fisseha-estifanos) 
 - LinkedIn: [Fisseha Estifanos] (https://www.linkedin.com/in/fisseha-estifanos-109ba6199/)
 
 👤 **Nardos Dubale**
